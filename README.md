@@ -10,3 +10,8 @@ sudo install ultraquotes/ultraquote /usr/local/bin
 sudo cp -r ultraquotes/entries /usr/local/bin
 rm -rf ultraquotes
 ```
+<Uninstall>
+  ```sh
+  sudo rm -rf /usr/local/bin/ultraquote && sudo rm -rf /usr/local/bin/entries
+  ```
+</Uninstall>

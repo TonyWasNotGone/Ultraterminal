@@ -7,6 +7,5 @@ Install from source:
 ```sh
 git clone "https://github.com/TonyWasNotGone/ultraquotes.git"
 sudo cp ultraquotes/ultraquote /usr/local/bin
-sudo cp ultraquotes/entries /usr/local/bin
 rm -rf ultraquotes
 ```

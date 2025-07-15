@@ -8,5 +8,5 @@ Install from source:
 git clone "https://github.com/TonyWasNotGone/ultraquotes.git"
 sudo cp ultraquotes/ultraquote /usr/local/bin
 sudo cp ultraquotes/entries /usr/local/bin
-rm -rf ultraquote
+rm -rf ultraquotes
 ```

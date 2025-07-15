@@ -2,7 +2,7 @@
 Pulls up book quotes and terminal entries from secret levels and prime sanctums.
 
 
-install from source:
+Install from source:
 
 ```sh
 git clone "https://github.com/TonyWasNotGone/Ultraquotes.git"

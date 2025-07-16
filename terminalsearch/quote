@@ -1,0 +1,17 @@
+#!/bin/bash
+
+QUOTE_DIR="/usr/local/bin/entries/quotes"
+
+if [ -z "$1" ]; then
+  echo "Usage: $(basename "$0") <quote-name>"
+  exit 1
+fi
+
+QUOTE_FILE="$QUOTE_DIR/$1"
+
+if [ ! -f "$QUOTE_FILE" ]; then
+  echo "Quote not found: $QUOTE_FILE"
+  exit 2
+fi
+
+cat "$QUOTE_FILE"

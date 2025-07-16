@@ -1,0 +1,32 @@
+
+DATA:
+Unlike other arms, the Spawner Arm takes up a primary weapon slot and can be brought up by pressing 6 on your keyboard. It cannot deal damage, but instead gives you access to a variety of tools. 
+
+The Spawner Arm has 4 variants, each of which has a different function for the primary fire. The alternate fire will always bring up a spawn menu, which can be used to spawn almost every enemy and item in the game. In the Sandbox, the spawn menu also contains multiple props including some unique ones not seen in the main game, as well as buttons to swap to the other Spawner Arm variants. These variants can also be accessed by simply switching variations like you would with any other weapon.
+
+Although the Spawner Arm's variants can be used outside of the Sandbox via Cheats, they have no effect on objects or enemies that were not spawned by the player. You can also use the move variant in the Developer Museum by activating the chess game, though it can only move the chess pieces and lacks the ability to spawn. 
+
+SPAWNER ARM (GOLD):
+This is the default variation of the Spawner Arm. In this variation, V1's palm is open and facing upward.
+
+Once an object is selected in the spawn menu, it appears in the palm of V1's hand and the primary fire will spawn the object at the cursor's position. A slightly different process is used when a building material is selected: The first click determines the position of one corner and the second click determines the position of another corner, filling the area between the two points with a cube made out of the material.
+
+Outside the Sandbox, Spawner Arm can spawn the majority of the enemies and common items, and all the powerups and unlockables. Spawner arm cannot spawn Something Wicked, The Corpse of King Minos, Leviathan, Earthmover, 1000-THR Defense System's core and props such as the ones present in [ 5-S: I ONLY SAY MORNING ], Books and Stone Tablets.
+
+For more information about spawnable objects inside Sandbox, please look at the Sandbox page. 
+
+MOVE ARM (BLUE):
+In this variation, V1's arm is outstretched as if reaching out for something. The screen on the back of the hand shows an arrow with four sides.
+
+Holding the primary fire while the cursor is on a spawned object will allow you to move it around by aiming. Enemies will usually be immobile while moving them, with some exceptions. While holding an object, using the alt fire will freeze it in place, and the scroll wheel will move it forwards and backwards. 
+
+ALTER ARM (GREEN):
+In this variation, V1's hand is closed with only its pointer finger extended, similar to how it interacts with Terminals. The screen on the back of the hand shows a wrench and a hammer.
+
+This mode is used to edit spawned objects. Clicking on an object with the primary fire will temporarily hold it in place and open a menu where you can change its size, freeze it, and change any other properties it may have. For enemies, this includes enabling and adjusting Radiance and a boss health bar that shows its health. The menu can be closed either by pressing alt fire, pressing the escape key, or clicking the close button. 
+
+DELETE ARM (RED):
+This variation shares the same pose as the Alter Arm, though the screen on the back shows a trash can instead.
+
+This mode will delete any spawned objects simply by clicking on them with the primary fire. A black hole visual will appear on the selected object upon deletion. 
+

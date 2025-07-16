@@ -5,3 +5,9 @@ NC='\033[0m' # No Color
 printf "I ${RED}love${NC} Stack Overflow\n"
 
 echo -e "\033[31m$(cat test)\033[0m"
+
+\033[31mThis text will be red!\033[0m
+
+echo -e "$(cat test)"
+
+echo -e "$(cat "$1")"

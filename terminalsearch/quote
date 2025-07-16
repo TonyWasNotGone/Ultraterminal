@@ -1,17 +1,17 @@
 #!/bin/bash
 
-ENTRY_DIR="/usr/local/bin/entries"
+QUOTE_DIR="/usr/local/bin/entries/quotes"
 
 if [ -z "$1" ]; then
-  echo "Usage: $(basename "$0") <entry-name>"
+  echo "Usage: $(basename "$0") <quote-name>"
   exit 1
 fi
 
-ENTRY_FILE="$ENTRY_DIR/$1"
+QUOTE_FILE="$QUOTE_DIR/$1"
 
-if [ ! -f "$ENTRY_FILE" ]; then
-  echo "Entry not found: $ENTRY_FILE"
+if [ ! -f "$QUOTE_FILE" ]; then
+  echo "Quote not found: $QUOTE_FILE"
   exit 2
 fi
 
-cat "$ENTRY_FILE"
+cat "$QUOTE_FILE"

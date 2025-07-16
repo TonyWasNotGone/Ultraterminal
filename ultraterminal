@@ -3,7 +3,7 @@
 ENTRY_DIR="/usr/local/bin/terminalsearch"
 
 if [ -z "$1" ]; then
-  echo "Usage: $(basename "$0") <subcommand> [arguments...]"
+  echo "Usage: $(basename "$0") <subcommand> [enemies, weapons, quotes]"
   exit 1
 fi
 

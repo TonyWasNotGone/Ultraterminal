@@ -1,0 +1,17 @@
+#!/bin/bash
+
+WEAPON_DIR="/usr/local/bin/entries/weapons"
+
+if [ -z "$1" ]; then
+  echo "Usage: $(basename "$0") <weapon-name> [Revolver, Alternate-Nailgun, Whiplash]"
+  exit 1
+fi
+
+WEAPON_FILE="$WEAPON_DIR/$1"
+
+if [ ! -f "$WEAPON_FILE" ]; then
+  echo "Weapon not found: $WEAPON_FILE"
+  exit 2
+fi
+
+cat "$WEAPON_FILE"

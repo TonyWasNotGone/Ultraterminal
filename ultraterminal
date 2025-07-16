@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ENTRY_DIR="/usr/local/bin/entries"
+ENTRY_DIR="/usr/local/bin/terminalsearch"
 
 if [ -z "$1" ]; then
   echo "Usage: $(basename "$0") <entry-name>"

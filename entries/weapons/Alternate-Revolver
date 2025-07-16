@@ -1,0 +1,29 @@
+
+DATA:
+The Alternate Revolver fires two 1.25 damage hitscans, totaling 2.5 damage per shot. These have piercing, allowing hitting two enemies at once, assuming the first one is killed. The bullets are not affected by locational damage. After firing, the hammer must be pulled down to fire again, and if V1 swaps back to the Alt Revolver without pulling down the hammer, or by not waiting 2 seconds after firing, a longer swap animation will play. Unlike the Rocket Launcher, different Alternate Revolver variants have independent primary fire cooldowns, allowing up to three primary fire shots in quick succession.
+
+Like the Standard Revolver, the Alternate Revolver's fire rate is the same between variants.
+
+The primary fire of the Alternate Revolver, in general, heals the player more than the Standard Revolver. When used against weaker enemies, it can restore the player's health to full or to their Hard Damage. When used against larger enemies and bosses, it can restore a significant portion as well, but restores more when hitting the head. 
+
+CHARGE SHOT:
+Charge Shot fires six 1.25 damage hitscans, totaling 7.5 damage, with a longer recharge than Standard. However, if 4 hitscans hit a single enemy, the next 2 hitscans will pass through, meaning only 5 damage dealt to a single enemy.
+
+Just like with the default variant, the revolver's primary fire still works during the charge shot's cooldown. 
+
+COIN RICOSHOTS:
+Hitscan Damage - The first coin adds 0.5 damage to each hitscan, and subsequent coins add 0.25, resulting in +1 damage from the first coin (3.5 total), and +0.5 damage from subsequent coins.
+
+Split Interaction - Rather than splitshot like Standard, hitting splitshots with any Alternate Revolver will, for each split coin hit, add an additional hitscan to the Ricoshot (a single split coin becomes 1.75 x 3 = 5.25 damage). Additionally, Charge Shot will no longer pass through at 4 hitscans if any coin splits, resulting in 7 hitscans from a single split coin (1.75 x 7 = 12.25 damage total).
+
+If one lands a Ricoshot with the 2 pass-through hitscans of Charge Shot, they'll still get a full damage Ricoshot. Known as Slabcoining, this lets the player get an additional 5 damage on a Ricoshot.
+
+Performing a Splitshot with any Alternate Revolver will now instantly reload all revolver variants, allowing for faster firing speed. This is most convenient to achieve with Alternate Marksman Revolver as it can hit the coin within its first timing window.
+
+What is important to note is that coins thrown by the Standard Marksman and Alternate Marksman are the same. Splitshots with coins react differently depending on the type of Revolver that shot the coin. In other words, the coins behave differently depending on the revolver that shot them. 
+
+SHARPSHOOTER DIFFERENCES:
+Charges - Unlike the default variant (with three charges that each have an approximate 6.67 second cooldown), the Slab variant only has one charge with an approximate 8.57 second cooldown. The Slab Sharpshooter spins up instantly compared to the default variant, allowing for the maximum 3 ricochets to be reached with very little prep time. Each hit of the secondary fire deals the increased 1.25 damage of all Slab hitscans; the number of hits on a single target per ricochet begins at 2 for 2.5 damage, matching the Slab's primary fire, and maxes out at 4 hits for 5 damage.
+
+Aim Assist - Since Slab variants do not have the stock Revolver's locational damage bonuses, the Slab Sharpshooter's minor aim assist on ricochets does not prioritize heads or limbs. This can result in more consistent ricochet angles, especially for targets near the ricochet surface or when attempting to pierce through multiple targets of disparate heights with multiple ricochets. 
+

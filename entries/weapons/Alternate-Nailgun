@@ -1,0 +1,27 @@
+
+DATA:
+The Sawblade Launcher shoots out saws that do more damage than nails and will pierce through enemies and ricochet off of walls. The main downside is that it fires significantly slower than the Nailgun while doing less damage per second.
+
+The durability of saws will be slightly reduced if they bounce off terrain, potentially reducing their potential maximum hits.
+
+Saws can be punched with the Feedbacker to double their damage per tick until the saw contacts a wall or enters a magnet's orbit. 
+
+ATTRACTOR:
+The Attractor variant will still fire out a maximum of three magnets that can attract nails to it, although now saws will also be drawn towards the magnets. Whereas nails will simply head directly towards the magnet, saws will instead circle around it, piercing any foes can come close to it. With a few exceptions, this makes it less useful at delivering high amounts of damage to a single target, but it works far better at dealing high amounts of damage to multiple targets, or making it easier to hit an enemy with a magnet trap.
+
+The initial size of a saw's orbit around a magnet depends on how horizontally far the saw is when connecting to the magnet; the further the saw is, the larger its initial orbit will be.
+
+The primary fire of the Attractor fires out special silver saws that do more damage than saws fired by the Overheat variant, have more durability (capable of withstanding over 15 wall bounces) and deal more damage to weak husks, but there is a limited supply. Compared to silver nails (of which a maximum of 100 can be held), you can only hold a maximum of 10 silver saws, which recharge slower than silver nails. A silver saw will also increase in damage by 50% multiplicatively with each fodder husk it hits. This increased damage applies to any subsequent enemy, not just fodder husks. Silver sawblade can pierce 2 enemies before before being destroyed upon third hit.
+
+A single magnet can hold up to 15 saws. With the use of multiple magnets, the lifespan of a sawblade can be extended up to about a minute. Punching the orbiting sawblade will always land a hit, even if the actual sawblade is on the opposite side of a magnet. 
+
+OVERHEAT:
+Unlike the Attractor variant, the Overheat variant fires out regular saws with less damage, less durability, and no extra damage on weak husks, but there is no ammo capacity. Each shot builds up heat with 12.5% increments, and as heat accumulates over 50%, the weapon will fire slower with less accuracy. The durability of saws is dependent on heat. At 0 heat, the sawblade can reflect off the surfaces 11 times, at max heat the number is 4. Firing the Attractor variant will also instantly build full heat. There is only one heatsink available compared to the Overheat Nailgun's two heatsinks. At low heat, a single sawblade can pierce through a single enemy before being destroyed upon hitting the second enemy. At 50% or more heat, the sawblade cannot pierce enemies.
+
+The alternate fire will launch an overheated saw with more damage and extremely high durability, capable of hitting walls over 80 times while igniting enemies. The more heat accumulates, the more it will multi-hit an enemy upon contact. At near-max heat, it will multi-hit an enemy 3 times. It will also ricochet perpendicular to walls rather than at an angle (for example, hitting a flat floor will bounce it directly upwards). This could be used in closed-in areas to cause constant damage across a straight line or certain point. The amount of wall bounce does not depend on the charge level the overheated Saw was fired at. Without the heat sink, the primary fire's fire rate slows down even more and the weapon remains inaccurate. 
+
+JUMPSTART:
+The primary fire of the Jumpstart variant fires regular saw blades similar to the Overheat variant at a constant rate. Saw blades fired by JumpStart Sawblade Launcher can ricochet off surfaces 4 times and cannot pierce enemies at all.
+
+The alternate fire fires a cable identical to the standard JumpStart nailgun. When plugged into an enemy, the fire rate of the JumpStart variant doubles. Hitting the plugged enemy with a sawblade from any variant of the weapon will decrease the amount of time required to "charge" the enemy by 1 second, allowing for sawtraps to instantly trigger the electrical shock. Upon reaching maximum charge (5 seconds if not hit by any sawblades) or killing the enemy, any nails in the enemy will explode, dealing additional damage to the target and any enemies around it as well as granting the [+CONDUCTOR] Style Bonus. 
+

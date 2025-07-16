@@ -3,7 +3,7 @@
 WEAPON_DIR="/usr/local/bin/entries/weapons"
 
 if [ -z "$1" ]; then
-  echo "Usage: $(basename "$0") <weapon-name> [Revolver, Alternate-Nailgun, Whiplash]"
+  echo "Usage: $(basename "$0") <weapon-name> [Revolver, Alternate-Nailgun, Spawner-Arm]"
   exit 1
 fi
 

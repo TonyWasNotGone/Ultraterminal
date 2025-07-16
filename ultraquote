@@ -15,28 +15,3 @@ if [ ! -f "$ENTRY_FILE" ]; then
 fi
 
 cat "$ENTRY_FILE"
-
-file="$1"
-if [ -f "$file" ]; then
-    firstline=$(head -n 1 "$file")
-    colorcode=""
-    # Parse color from first line if it matches the pattern
-    if [[ "$firstline" =~ ^#color=([a-z]+)$ ]]; then
-        color="${BASH_REMATCH[1]}"
-        case $color in
-            red) colorcode="\033[31m" ;;
-            green) colorcode="\033[32m" ;;
-            yellow) colorcode="\033[33m" ;;
-            blue) colorcode="\033[34m" ;;
-            *) colorcode="" ;;
-        esac
-        # Remove the first line before displaying
-        content=$(tail -n +2 "$file")
-        echo -e "${colorcode}${content}\033[0m"
-    else
-        # Default: output as-is
-        echo -e "$(cat "$file")"
-    fi
-else
-    echo "File not found: $file"
-fi

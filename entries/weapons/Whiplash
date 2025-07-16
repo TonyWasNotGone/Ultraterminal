@@ -1,0 +1,24 @@
+
+DATA:
+A winch with a spear. Hold to throw, release to pull. Can pull light enemies and items, will get pulled to heavy enemies and grapple points.
+
+The Whiplash appears to be a chartreuse robotic arm with a spearhead attached to it by a cable. It is capable of throwing out and extending a makeshift grapple, pulling it back via an internal winch. The arm itself has a somewhat worn down appearance, with various scratches along its paintjob. 
+
+Unlike the Feedbacker or Knuckleblaster, it is not possible to switch the Whiplash; instead, it is automatically used by pressing its dedicated hotkey (R by default), both shoulder buttons/bumpers simultaneously by default on a controller, which will pull V1 to big enemies and Hookpoints, or bring lightweight enemies towards V1. It is also possible to dash and slam while in the process of pulling or being pulled by an object.
+
+On difficulties Standard and up, the Whiplash will add up to 50 Hard Damage to V1 when used on an enemy target, unless the player is submerged underwater. This hard damage cannot reduce current health, and generation ends once the Whiplash is not in use. If stylish enough, hard damage generation will not occur. Grappling to a Malicious Face's corpse will not generate hard damage, as the Malicious Face has ceased being a live enemy. Likewise, grappling Hookpoints and unheld objects is also safe.
+
+Holding the Whiplash key will fire it for a longer distance, and stick into an enemy without immediately pulling them to V1 (or vice versa). If line of sight is broken with an enemy attached, the hook will detach from them. Using another arm while using the Whiplash will cancel the Whiplash and vice versa.
+
+The Whiplash can grab and place items from extreme distances and through small gaps. Note that it only applies to physical items like Skulls and not pickups like Soul Orbs. Additionally, items attached to Whiplash's hook retain their properties. Torches and Skulls will still emit light and burn enemies and Soap will still deal full damage with the added benefit of not dropping the soap.
+
+Outside of its movement, the Whiplash has interactions with certain weapons or objects. It is capable of pulling dying Virtues and Drones, as well as up to 5 cannonballs or rockets. It can also juggle Coins, which resets its coin split timing. 
+
+V1 can jump while being pulled to cancel and gain a small jump in mid-air at the cost of some momentum.
+
+The Whiplash can be cancelled mid-pull by using the Whiplash key again, or by using another arm. The momentum of the pull is preserved when detached, either for V1 or the enemy pulled; this allows the player to keep their speed in the air, or to fling lightweight enemies behind them. The player can also cancel a pull by jumping, although not as much momentum will be stored.
+
+When airborne, V1's vertical momentum stops when starting to reel a small enemy. This causes V1 to make a tiny vertical boost as well. The same small vertical hop happens once V1's whiplash has completed reeling a small enemy or has reached a large enemy or a green Hookpoint. Mid-air momentum changes do not happen when grabbing items.
+
+The Whiplash has slight in-built auto-aim, meaning that V1 can still aim very slightly off the target to initiate a successful grapple. 
+

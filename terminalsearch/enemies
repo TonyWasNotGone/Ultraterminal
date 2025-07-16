@@ -1,0 +1,17 @@
+#!/bin/bash
+
+ENEMY_DIR="/usr/local/bin/entries/enemies"
+
+if [ -z "$1" ]; then
+  echo "Usage: $(basename "$0") <enemy-name>"
+  exit 1
+fi
+
+ENEMY_FILE="$ENEMY_DIR/$1"
+
+if [ ! -f "$ENEMY_FILE" ]; then
+  echo "Enemy not found: $ENEMY_FILE"
+  exit 2
+fi
+
+cat "$ENEMY_FILE"

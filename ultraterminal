@@ -3,15 +3,18 @@
 ENTRY_DIR="/usr/local/bin/terminalsearch"
 
 if [ -z "$1" ]; then
-  echo "Usage: $(basename "$0") <entry-name>"
+  echo "Usage: $(basename "$0") <subcommand> [arguments...]"
   exit 1
 fi
 
-ENTRY_FILE="$ENTRY_DIR/$1"
+SUBCOMMAND="$1"
+shift
 
-if [ ! -f "$ENTRY_FILE" ]; then
-  echo "Entry not found: $ENTRY_FILE"
+SUBCOMMAND_SCRIPT="$ENTRY_DIR/$SUBCOMMAND"
+
+if [ ! -x "$SUBCOMMAND_SCRIPT" ]; then
+  echo "Subcommand not found or not executable: $SUBCOMMAND_SCRIPT"
   exit 2
 fi
 
-cat "$ENTRY_FILE"
+"$SUBCOMMAND_SCRIPT" "$@"

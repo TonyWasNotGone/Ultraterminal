@@ -3,7 +3,7 @@
 ENEMY_DIR="/usr/local/bin/entries/enemies"
 
 if [ -z "$1" ]; then
-  echo "Usage: $(basename "$0") <enemy-name>"
+  echo "Usage: $(basename "$0") <enemy-name> [Filth, The-Corpse-Of-King-Minos, Gabriel-Second]"
   exit 1
 fi
 

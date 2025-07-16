@@ -1,8 +1,27 @@
 # Ultraterminal
-Pulls up book quotes and terminal entries from secret levels and prime sanctums.
+
+Ultraterminal is a shell-based utility that pulls up all available terminal entries from the game Ultrakill. It provides quick access to weapon data, enemy information and an assortment of thematic texts, from the in-game terminal, straight to your terminal.
 
 
-### Install:
+## Usage
+
+Ultraterminal is invoked from the command line as follows:
+
+```sh
+ultraterminal <subcommand> [arguments]
+```
+
+### Subcommands
+
+- `weapons <weapon-name>`: Displays information about a weapon.
+  - Example: `ultraterminal weapons Revolver`
+- `enemies <enemy-name>`: Displays information about an enemy.
+  - Example: `ultraterminal enemies Filth`
+- `quote <quote-name>`: Displays the text of a quote.
+  - Example: `ultraterminal quote Testament-III`
+
+
+## Install
 
 ```sh
 git clone https://github.com/TonyWasNotGone/ultraterminal.git
@@ -11,7 +30,8 @@ sudo cp -r ultraterminal/{entries,terminalsearch} /usr/local/bin
 sudo chmod +x /usr/local/bin/terminalsearch/*
 rm -rf ultraterminal
 ```
-### Uninstall
+
+## Uninstall
 
 <Uninstall>
   

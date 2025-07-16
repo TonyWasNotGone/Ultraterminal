@@ -3,7 +3,7 @@
 QUOTE_DIR="/usr/local/bin/entries/quotes"
 
 if [ -z "$1" ]; then
-  echo "Usage: $(basename "$0") <quote-name>"
+  echo "Usage: $(basename "$0") <quote-name> [Testament-III, Terminal-Data-02, Hell's Note"
   exit 1
 fi
 

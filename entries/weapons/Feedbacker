@@ -1,0 +1,16 @@
+
+DATA:
+Fast punch with decent damage. Can parry most attacks, including shotgun shots and coins.
+
+The Feedbacker is literally just V1's arm. It sports a blue and gunmetal gray color scheme, with protrusions at the bases of its fingers simulating knuckles. It also features a red wire near the shoulder of the arm. Upon punching, it makes a crisp "whiffing" sound. When parrying, it produces a satisfying, metallic "clinking" sound. 
+
+Pressing the melee key (F by default) while this arm is equipped will punch. Continuously punching will increase the cooldown it takes to punch again, preventing spamming punches.
+
+While the damage done to enemies by punching them is the same regardless of the location hit, punching the enemy's torso will heal 10 hitpoints, punching enemy's limb heals 20 hitpoints and punching the enemy's head or an enemy without a weak point heals 30. Killing the enemy by punching its limb or a head also grant +CRITICAL PUNCH style bonus.
+
+The key feature of the Feedbacker is its ability to parry. With precise timing, punching almost any projectile in the game will add +4 damage to the projectile, boost its speed, and send it flying in the direction of the player's crosshair. It will also cause the projectile to explode in a moderately large area. In addition, physically punching an enemy during their parry window will cause a parry punch, punching them for 5 damage and (usually) canceling their attack.
+
+Enemy projectiles have three mercy frames between hitting the player and the damage being applied, to make projectile parrying slightly more lenient. Up to two projectiles can be parried by a single punch, one that's inside the player (i.e., during the projectile's mercy frames) and one that's in front.
+
+A few player's projectiles can also interact with a Feedbacker. Punching a shotgun pellet turns one of the projectiles faster and more explosive. Punching a saw blade or a detached chainsaw will redirect it, and punching a cannonball will make it fly fast with straight trajectory. Finally, punching a coin will send it to the nearest enemy. 
+

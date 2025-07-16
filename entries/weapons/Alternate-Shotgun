@@ -1,0 +1,27 @@
+
+DATA:
+The Jackhammer fires no projectiles and is instead more of a pseudo-melee weapon. It deals higher damage based on the user's velocity and current movement type. It has three levels of strength, indicated by the left side of the gauge. Each level on the gauge multiplies its damage. (Green = 1×, Yellow = 2×, Red = 3⅓×) 
+
+The piston pulls back and releases after a slight delay. Holding primary fire keeps the piston held back until it is released. There is a very slight delay in between shots; however, if hitting an enemy while the gauge is in the red, the Jackhammer variant used for the hit will be forced to cool down for seven seconds, which cannot be reset by switching.
+
+Damage, recoil, and Hitstop length scale based on how fast V1 is moving, indicated by the gauge on the left side of the weapon. The gauge has 3 levels: Green (Slow), Yellow (Fast), and Red (Mach Fuck). 
+
+Note that the gauge can take a moment to catch up to V1's speed if it accelerates quickly, since the needle can only move so fast. It certainly won't match the instant acceleration of a slam, so you'd need a decent amount of height to get your gauge to Red before hitting the ground. Fortunately, when you lose the speed necessary to maintain a Yellow or Red gauge, there is a brief delay before the gauge level actually drops. During this delay, the gauge light blinks rapidly.
+
+The player can rotate the camera during the Jackhammer's Hitstop, giving a control to where V1 will be knocked back.
+
+Hitting a Red shot will cause the Jackhammer to overheat, putting the primary fire on a 7 second cooldown before it can be used again. Similarly to the Alternate Revolver, this cooldown will only apply to the current variant: other Jackhammer variants have their own separate cooldowns. The alternate fire can still be used freely during the cooldown. Overheating does not happen when the player targeted an Idol.
+
+Striking a Core or Rocket with the Jackhammer will turn them into explosive hitscan attacks which can be chained off of coins. Empowered rocket beams create red explosions. If this beam is chained into another core/rocket, it will create a massive explosion. Landmines can also be launched by the Jackhammer, although they don't become hitscan.
+
+Similarly to the Shotgun, it is possible to Parry parriable non projectile attacks with the Jackhammer, by striking the enemy with the primary fire within the parry window. This can deal massive damage when combined with a red gauge strike. Additionally, the range you can parry from using the Jackhammer seems to be longer than with either the Feedbacker or Shotgun. 
+
+CORE EJECT:
+Instantly fires a core with very little force. Though the strength cannot be charged, the core inherits most of V1's velocity when fired, which combine to make it very easy to set up core hammering. 
+
+PUMP CHARGE:
+Instead of firing additional pellets, Pump Charge increases the pressure within the Jackhammer, making it create a damaging shockwave similar to that of the Knuckleblaster; unlike its baseline counterpart, the first two pumps increase the radius of the blast, rather than its damage, which stays at 3.5. However, when overpumped the shockwave becomes a self-damaging red explosion dealing twice the damage and launching you backwards. It has a slower pump rate than a shotgun but it deals less damage on overpump than the default shotgun
+
+SAWED ON:
+Has a chainsaw, which behaves the same as the standard variant. Unlike the regular shotgun, the primary fire and alt fire can be used independently of each other. While the chainsaw is out, hitting it with the primary fire can bounce it back. 
+

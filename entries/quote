@@ -1,0 +1,17 @@
+#!/bin/bash
+
+ENTRY_DIR="/usr/local/bin/entries"
+
+if [ -z "$1" ]; then
+  echo "Usage: $(basename "$0") <entry-name>"
+  exit 1
+fi
+
+ENTRY_FILE="$ENTRY_DIR/$1"
+
+if [ ! -f "$ENTRY_FILE" ]; then
+  echo "Entry not found: $ENTRY_FILE"
+  exit 2
+fi
+
+cat "$ENTRY_FILE"

@@ -2,7 +2,7 @@
 
 Ultraterminal is a shell-based utility that pulls up all available terminal entries from the game Ultrakill. It provides quick access to weapon data, enemy information and an assortment of thematic texts, from the in-game terminal, straight to your terminal.
 
-[ultraterminal-demo](https://github.com/user-attachments/assets/1039685e-536f-4d4c-832f-261c94b55c38)
+[ultraterminal-demo](https://github.com/user-attachments/assets/8e0daead-eae5-4e06-9850-5dc82936e00f)
 
 ## Usage
 
